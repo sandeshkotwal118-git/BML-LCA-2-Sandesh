@@ -29,7 +29,7 @@ The final result and accuracy are shown in the notebook.
 
 ### Files
 
-`LCA_2_Bank_Marketing_Logistic_Regression.ipynb` → Complete practical exam notebook
+https://github.com/sandeshkotwal118-git/BML-LCA-2-Sandesh/blob/main/LCA_2_BML_DT.ipynb → Complete practical exam notebook
 
 ### Used
 
