@@ -29,7 +29,7 @@ The final result and accuracy are shown in the notebook.
 
 ### Files
 
-https://github.com/sandeshkotwal118-git/BML-LCA-2-Sandesh/blob/main/LCA_2_BML_DT.ipynb → Complete practical exam notebook
+https://github.com/sandeshkotwal118-git/BML-LCA-2-Sandesh/blob/main/LCA_2_BML_DT.ipynb → Complete  notebook
 
 ### Used
 
